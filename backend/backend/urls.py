@@ -12,7 +12,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 #ola laura 
-
+#ola satanas
 
 router = routers.DefaultRouter()
 router.register('api/users', UsuarioViewSet, 'nombra_urls_usuarios')
